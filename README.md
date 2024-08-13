@@ -38,7 +38,7 @@ The credit card fraud detection dataset only uses data whose feature values have
 ### How PCA is used in this Project
 In this project, PCA is applied to reduce the dimensionality of the dataset, which contains 28 principal components. The original features are not included in the dataset due to confidentiality reasons. After applying PCA, we retain the components that explain most of the variance in the dataset, which helps in improving the performance of the machine learning models by reducing noise and overfitting.
 
-![PCA Process](URL_to_your_PCA_image_in_the_repo)
+![PCA Process](Assests/PCA.jpg)
 
 # 3. Machine Learning Algorithm Used
 
@@ -55,7 +55,7 @@ Linear regression is a linear model, e.g., a model that assumes a linear relatio
 
 When there is a single input variable (x), the method is referred to as simple linear regression. When there are multiple input variables, literature from statistics often refers to the method as multiple linear regression. Different techniques can be used to prepare or train the linear regression equation from data, the most common of which is called Ordinary Least Squares. It is common to therefore refer to a model prepared this way as Ordinary Least Squares Linear Regression or just Least Squares Regression.
 
-![Linear Regression](URL_to_your_Linear_Regression_image_in_the_repo)
+![Linear Regression](Assests/Linear Regression.png)
 
 
 
