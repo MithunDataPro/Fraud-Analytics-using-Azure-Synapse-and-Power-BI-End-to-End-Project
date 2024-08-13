@@ -18,9 +18,7 @@ Given the class imbalance ratio, we recommend measuring the accuracy using the A
 
 ### API Command to Download Dataset
 
-```
 kaggle datasets download -d mlg-ulb/creditcardfraud
-```
 
 
 [Dataset URL](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
