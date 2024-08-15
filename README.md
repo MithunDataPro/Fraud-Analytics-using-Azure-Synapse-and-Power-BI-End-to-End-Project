@@ -48,12 +48,12 @@ The machine learning algorithm that we used for scoring in this project is the L
 ### Why Linear Regression?
 Linear regression is a machine learning model that predicts response variables from the values of explanatory variables using a regression equation.
 
-scikit-learn contains `sklearn.linear_model.LinearRegression` as the class for making predictions based on linear regression. We used this algorithm for the machine learning model prepared for this hands-on training scenario.
+scikit-learn contains `sklearn.linear_model.LinearRegression` as the class for making predictions based on linear regression. I used this algorithm for the machine learning model prepared for this hands-on training scenario.
 
 ### Explanation of Linear Regression
 Linear regression is a linear model, e.g., a model that assumes a linear relationship between the input variables (x) and the single output variable (y). More specifically, y can be calculated from a linear combination of the input variables (x).
 
-When there is a single input variable (x), the method is referred to as simple linear regression. When there are multiple input variables, literature from statistics often refers to the method as multiple linear regression. Different techniques can be used to prepare or train the linear regression equation from data, the most common of which is called Ordinary Least Squares. It is common to therefore refer to a model prepared this way as Ordinary Least Squares Linear Regression or just Least Squares Regression.
+When there is a single input variable (x), the method is referred to as "simple linear regression". When there are multiple input variables, literature from statistics often refers to the method as "multiple linear regression". Different techniques can be used to prepare or train the linear regression equation from data, the most common of which is called Ordinary Least Squares. It is common to therefore refer to a model prepared this way as Ordinary Least Squares Linear Regression or just Least Squares Regression.
 
 ![PCA Process](Assests/Linear_Regression.png)
 
