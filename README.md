@@ -1,5 +1,7 @@
 # 🔍 **Project Title**: Credit Card Fraud Detection using Azure Synapse and Power BI
 
+![PCA Process](Assests/CC_fraud.png)
+
 💡 **Summary**: Developed an end-to-end solution for detecting fraudulent credit card transactions using Azure Synapse Analytics and Power BI. Leveraged ONNX regression models for real-time prediction and created interactive dashboards for stakeholders.
 
 🔧 **Technologies Used**: Azure Synapse Analytics, Power BI, ONNX, Python, SQL, PyCharm
