@@ -73,6 +73,8 @@ When there is a single input variable (x), the method is referred to as "simple 
 
 # 4. The Open Neural Network Exchange (ONNX)
 
+![PCA Process](Assests/onnx-horizontal-color.png)
+
 ### What is ONNX?
 The Open Neural Network Exchange (ONNX) is an open-source artificial intelligence ecosystem of technology companies and research organizations that establish open standards for representing machine learning algorithms and software tools to promote innovation and collaboration in the AI sector. ONNX is available on [GitHub](https://github.com/onnx/onnx).
 
