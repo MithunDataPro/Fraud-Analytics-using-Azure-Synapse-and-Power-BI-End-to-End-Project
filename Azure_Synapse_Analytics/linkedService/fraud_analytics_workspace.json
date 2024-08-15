@@ -1,0 +1,12 @@
+{
+	"name": "fraud_analytics_workspace",
+	"type": "Microsoft.Synapse/workspaces/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "PowerBIWorkspace",
+		"typeProperties": {
+			"workspaceID": "2e3fe5e3-04ed-41d3-acb1-dadac2498c73",
+			"tenantID": "71edf501-dd4f-47ed-8fc2-bef4abd5674c"
+		}
+	}
+}
