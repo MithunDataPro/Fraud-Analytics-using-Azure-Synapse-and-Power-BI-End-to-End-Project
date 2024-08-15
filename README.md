@@ -13,6 +13,19 @@
 - Reduced false positives by 30%, improving the accuracy of fraud detection.
 - Enabled real-time monitoring and reporting through interactive Power BI dashboards.
 
+# Synapse:
+
+Overview
+The Challenge for Businesses
+Objectives and Goals
+Principal Component Analysis (PCA)
+Machine Learning Algorithm Used
+The Open Neural Network Exchange (ONNX)
+Setup Instructions
+Results and Analysis
+Data Sources
+Conclusion
+
 # 1. Overview of the Project
 
 ## Credit Card Fraud Detection using Azure Synapse Analytics and PCA
@@ -56,6 +69,21 @@ Linear regression is a linear model, e.g., a model that assumes a linear relatio
 When there is a single input variable (x), the method is referred to as "simple linear regression". When there are multiple input variables, literature from statistics often refers to the method as "multiple linear regression". Different techniques can be used to prepare or train the linear regression equation from data, the most common of which is called Ordinary Least Squares. It is common to therefore refer to a model prepared this way as Ordinary Least Squares Linear Regression or just Least Squares Regression.
 
 ![PCA Process](Assests/Linear_Regression.png)
+
+
+# 4. The Open Neural Network Exchange (ONNX)
+
+### What is ONNX?
+The Open Neural Network Exchange (ONNX) is an open-source artificial intelligence ecosystem of technology companies and research organizations that establish open standards for representing machine learning algorithms and software tools to promote innovation and collaboration in the AI sector. ONNX is available on [GitHub](https://github.com/onnx/onnx).
+
+ONNX was originally named Toffee and was developed by the PyTorch team at Facebook. In September 2017, it was renamed to ONNX and announced by Facebook and Microsoft. Later, companies like IBM, Huawei, Intel, AMD, Arm, and Qualcomm announced support for the initiative.
+
+ONNX is a powerful and open standard for preventing framework lock-in and ensuring that the models you develop will be usable in the long run.
+
+### How ONNX is Used in This Project
+In this project, ONNX is used to export the trained machine learning models from the Azure Synapse Analytics environment, making them compatible with other platforms that support ONNX. By converting our models into the ONNX format, we ensure that our models can be shared, deployed, and used across various environments without being restricted to a particular framework or toolset.
+
+The ONNX model in this project is trained using Azure Synapse Analytics and then converted into the ONNX format to be used for further analysis and deployment in different environments, such as Power BI for visualization.
 
 
 
